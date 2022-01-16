@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MahmoudWebApp/To-do/static/css/main.599ca5a0.chunk.css",
+    "main.js": "/MahmoudWebApp/To-do/static/js/main.c363feda.chunk.js",
+    "main.js.map": "/MahmoudWebApp/To-do/static/js/main.c363feda.chunk.js.map",
+    "runtime-main.js": "/MahmoudWebApp/To-do/static/js/runtime-main.4d92a64a.js",
+    "runtime-main.js.map": "/MahmoudWebApp/To-do/static/js/runtime-main.4d92a64a.js.map",
+    "static/js/2.838b44d4.chunk.js": "/MahmoudWebApp/To-do/static/js/2.838b44d4.chunk.js",
+    "static/js/2.838b44d4.chunk.js.map": "/MahmoudWebApp/To-do/static/js/2.838b44d4.chunk.js.map",
+    "index.html": "/MahmoudWebApp/To-do/index.html",
+    "static/css/main.599ca5a0.chunk.css.map": "/MahmoudWebApp/To-do/static/css/main.599ca5a0.chunk.css.map",
+    "static/js/2.838b44d4.chunk.js.LICENSE.txt": "/MahmoudWebApp/To-do/static/js/2.838b44d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d92a64a.js",
+    "static/js/2.838b44d4.chunk.js",
+    "static/css/main.599ca5a0.chunk.css",
+    "static/js/main.c363feda.chunk.js"
+  ]
+}
